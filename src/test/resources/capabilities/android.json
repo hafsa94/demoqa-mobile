@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "emulator-5554",
+  "appium:platformVersion": "15",
+  "appium:automationName": "UiAutomator2",
+  "appium:app": "/src/test/resources/builds/android/WikipediaSample.apk",
+  "appium:autoGrantPermissions": true,
+  "appium:fullReset": false,
+  "appium:noReset": true,
+  "appium:dontStopAppOnReset": true
+}
